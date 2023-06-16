@@ -1,0 +1,105 @@
+html {
+
+  background-color: black;
+
+  background-image: url('https://www.gofrugal.com/images/logos/gofrugal-new-logo.svg'), url('https://image.cnbcfm.com/api/v1/image/107087167-1657577323174-New_Version_of_the_Dash_Cart_Screen.jpg?v=1657577387');
+
+  background-repeat: no-repeat;
+
+  background-position-x: center;
+
+  background-size: 27%, cover;
+
+}
+
+
+
+  .h1{
+
+color: black;
+
+
+
+  }
+
+
+
+header {
+
+  text-align: center;
+
+  background-color: #333;
+
+  color: #fff;
+
+  padding: 10px;
+
+}
+
+
+
+.disclaimer{display: inline-block;position: absolute;bottom: 5px;background-color: antiquewhite;right: 0;color: black;font-size: 20px;}
+
+
+
+#warning {
+
+  display: inline-block;
+
+  position: absolute;
+
+  top: 5px;
+
+  right: 0;
+
+  font-size: 20px;
+
+}
+
+.container {position:fixed;top: 40%;/* left: 33px; */right: 10%;display: flex;/* margin: 100px auto 0 auto; */border: 1px solid black;justify-content: center;border: 1px solid black;background-color: white;padding: 13px 10px;width: 100%;max-width: 420px;align-items: center;/* height: 84vh; *//* background-image: url("https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/yologo_2-768x408.png"); *//* background-size: 22%; *//* background-repeat: no-repeat; *//* opacity: 0.9; */}
+
+
+
+
+
+input[type="file"] {
+
+color: red; /* Change text color */
+
+background-color: yellow; /* Change background color */
+
+border: 2px solid blue; /* Add border */
+
+padding: 10px; /* Add padding */
+
+border-radius: 5px; /* Add rounded corners */
+
+font-size: 18px; /* Change font size */
+
+}
+
+
+
+
+
+.box label {margin-bottom: 10px;font-size: 30px;}
+
+
+
+.box button {
+
+  margin-top: 10px;
+
+}
+
+
+
+.box {width: 362px;margin: auto;/* height: 190px; */border-radius: 5px;display: flex;/* justify-content: center; *//* align-items:normal; */font-size: 69px;color: rgb(187, 255, 0);/* padding: 20px; */}
+
+
+
+
+
+button {font-size: 14px;background-color: #4CAF50; /* Green */display: block;margin: 0 auto;/* padding: 0px; *//* padding-top: 22px; */padding: 10px;/* padding-bottom: 22px; */text-decoration:double;}
+
+
